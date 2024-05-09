@@ -1,5 +1,3 @@
 mountpoints:
-  /:
-    url: "https://author-p15404-e146221-cmstg.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
-    type: "markup"
-    suffix: ".html"
+  /:https://aem-sdk-quickstart-2023.9.13665.20230927T063259Z-230800.adobeaemcloud.com/bin/franklin.delivery/AKSHAY-199752/aem-edge-getting-started/main
+   
